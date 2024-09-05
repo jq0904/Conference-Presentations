@@ -38,7 +38,8 @@
   * [Agenda](https://offbyone.sg/agenda/)
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/Off-By-One%202024/A%20two-year%20journey%20of%20chasing%20in-the-wild%20LPE%20exploits%20in%20Windows%20CLFS.pdf)
   * [Video](https://www.youtube.com/watch?v=tOwSet1RVkU)
-  * [010 Editor Template to parse CLFS Log file (.blf) by @Mas0nShi](https://github.com/Mas0nShi/010Template_BLF)
+  * [010 Editor Template to parse CLFS Log file (.blf) by @Mas0nShi](https://github.com/Mas0nShi/CLFS-Gadgets)
+  * [C Header for clfs.sys (Assisted reverse engineering) by @Mas0nShi](https://github.com/Mas0nShi/CLFS-Gadgets)
   * Co-author: **@Mas0nShi**, **@_p01arisZ**
   * Special thanks to: **@lxi4oyu**
 
