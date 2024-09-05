@@ -6,6 +6,7 @@
   * ~~Agenda~~
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/BlueHat%20Shanghai%202019/Catch%20Multiple%20Zero-days%20Using%20Sandbox.pdf)
   * [Slide (Chinese version)](https://github.com/jq0904/Conference-Presentations/blob/main/BlueHat%20Shanghai%202019/%E5%A4%A7%E6%B5%B7%E6%8D%9E%E9%92%88%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%B2%99%E7%AE%B1%E6%8D%95%E8%8E%B7%E5%A4%9A%E4%B8%AA%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E.pdf)
+  * Co-author: **@Leeqwind**
 
 ### HITB2021AMS
 
@@ -29,6 +30,7 @@
   * [Agenda](https://www.blackhat.com/asia-24/briefings/schedule/index.html#a-glimpse-into-the-protocol-fuzz-windows-rdp-client-for-fun-and-profit-37629)
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/Black%20Hat%20Asia%202024/Fuzz%20Windows%20RDP%20Client%20For%20Fun%20And%20Profit.pdf)
   * [Video](https://www.youtube.com/watch?v=I5_v3yRqMVM)
+  * Co-author: **@Mas0nShi**, **@cyberestro**, **@_p01arisZ**, **@4nsw3r123**
 
 ### Off-By-One 2024
 
@@ -37,3 +39,7 @@
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/Off-By-One%202024/A%20two-year%20journey%20of%20chasing%20in-the-wild%20LPE%20exploits%20in%20Windows%20CLFS.pdf)
   * [Video](https://www.youtube.com/watch?v=tOwSet1RVkU)
   * [010 Editor Template to parse CLFS Log file (.blf) by @Mas0nShi](https://github.com/Mas0nShi/010Template_BLF)
+  * Co-author: **@Mas0nShi**, **@_p01arisZ**
+  * Special thanks to: **@lxi4oyu**
+
+Always thanks to: **@binjo**, learn a lot from him.
