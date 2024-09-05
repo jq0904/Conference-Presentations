@@ -5,12 +5,14 @@
 * Needle in A Haystack: Catch Multiple Zero-days Using Sandbox
   * ~~Agenda~~
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/BlueHat%20Shanghai%202019/Catch%20Multiple%20Zero-days%20Using%20Sandbox.pdf)
+  * [Slide (Chinese version)](https://github.com/jq0904/Conference-Presentations/blob/main/BlueHat%20Shanghai%202019/%E5%A4%A7%E6%B5%B7%E6%8D%9E%E9%92%88%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%B2%99%E7%AE%B1%E6%8D%95%E8%8E%B7%E5%A4%9A%E4%B8%AA%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E.pdf)
 
 ### HITB2021AMS
 
 * How I Found 16 Microsoft Office Excel Vulnerabilities in 6 Months
   * [Agenda](https://archive.conference.hitb.org/hitbsecconf2021ams/sessions/how-i-found-16-microsoft-office-excel-vulnerabilities-in-6-months/)
   * [Slide](https://github.com/jq0904/Conference-Presentations/blob/main/HITB2021AMS/How%20I%20Found%2016%20Microsoft%20Office%20Excel%20Vulnerabilities%20in%206%20Months.pdf)
+  * [HITBMag (Cut)](https://github.com/jq0904/Conference-Presentations/blob/main/HITB2021AMS/How%20I%20Found%2016%20Microsoft%20Office%20Excel%20Vulnerabilities%20in%206%20Months-magazine.pdf)
   * [Video](https://www.youtube.com/watch?v=LJohkmj_tzk)
 
 ### Black Hat USA 2022
